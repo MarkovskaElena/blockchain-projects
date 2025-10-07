@@ -1,1 +1,2 @@
-# blockchain-projects
+# blockchain-project-Cosmos:
+Cosmos is a decentralized blockchain ecosystem designed to enable communication and data exchange between different blockchain networks. Instead of each blockchain operating in isolation, Cosmos uses a hub-and-zone architecture, where the Cosmos Hub acts as the central network connecting others. Through the IBC (Inter-Blockchain Communication) protocol, networks can securely transfer tokens and information between one another. This approach solves key challenges of scalability and interoperability in the blockchain world.
